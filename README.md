@@ -10,9 +10,7 @@ In my project I am taking into consideration the amazon review electronics datas
 1. User ID : Every user identified with a unique id.
 2. Product ID : Every product identified with a unique id.
 3. Rating : Rating of the corresponding product by the corresponding user .
-4. Time Stamp : Time of the rating.
-
-You can download the dataset from the given link : 
+4. Time Stamp : Time of the rating.: 
 
 ## What I have done
 
