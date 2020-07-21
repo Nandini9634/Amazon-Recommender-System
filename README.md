@@ -12,6 +12,8 @@ In my project I am taking into consideration the amazon review electronics datas
 3. Rating : Rating of the corresponding product by the corresponding user .
 4. Time Stamp : Time of the rating.: 
 
+You can download the dataset from this link: https://drive.google.com/file/d/1Kn2dl--RxyKtwNGUA53L_pM2v7FlbtPU/view?usp=sharing
+
 ## What I have done
 
 I have used the given two models in my project : 
